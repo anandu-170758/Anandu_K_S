@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/anandu k s" target="blank"><img src="https://img.shields.io/twitter/follow/anandu k s?logo=twitter&style=for-the-badge" alt="anandu k s" /></a> </p>
 
-- 🔭 I’m currently working on **Covid_19 Tracker**
+- 🔭 I’m currently working on **Food Recipe App**
 
-- 🌱 I’m currently learning **Java,SAP and Node JS**
+- 🌱 I’m currently learning **AWS Services**
 
-- 💬 Ask me about **Java Script, HTML, CSS and SQL**
+- 💬 Ask me about **ReactJS,Bootstrap,Java Script, HTML, CSS and MySQL**
 
 - 📫 How to reach me **ananduksyam@gmail.com**
 
